@@ -36,8 +36,20 @@
 	color:black;
 	font-size: 25px;
 	border-bottom: 1px solid #dfdfdf;
+    font-family: 'fira_sansmedium', sans-serif;
+    font-weight:bold;
 }
 
 hr {
 	clear:both;
+}
+
+h1 {
+	font-family: 'fira_sansmedium', sans-serif;
+    font-size:30px;
+}
+
+h2 {
+	font-family: 'fira_sansmedium', sans-serif;
+    font-weight:bold;
 }
